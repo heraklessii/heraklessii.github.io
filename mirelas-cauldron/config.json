@@ -1,0 +1,16 @@
+{
+  "v": 1,
+  "weeklyEventEnabled": true,
+  "weeklyEventForced": -1,
+  "fairEnabled": true,
+  "fairForceOpen": false,
+  "fairTarget": -1,
+  "fairMoves": -1,
+  "fairWinCrystals": -1,
+  "fairPlaysPerDay": -1,
+  "experimentAmount": -1,
+  "gardenClueChance": -1,
+  "noticeId": "",
+  "noticeEn": "",
+  "noticeTr": ""
+}
